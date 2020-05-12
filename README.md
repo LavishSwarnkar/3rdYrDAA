@@ -1,5 +1,5 @@
 # 3rd Yr DAA C++ Programs
-[P1HeapSort](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P10RabinKarp.cpp)\
+[P1HeapSort](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P1HeapSort.cpp)\
 [P2BinarySearch](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P2BinarySearch.cpp)\
 [P3MergeSort](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P3MergeSort.cpp)\
 [P4QuickSort](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P4QuickSort.cpp)\
