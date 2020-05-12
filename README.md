@@ -1,8 +1,4 @@
 # 3rd Yr DAA C++ Programs
-[1. Prime check](https://github.com/lswarnkar1/2ndYrDSA/blob/master/L1.C)\
-
-
-
 [P1HeapSort](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P10RabinKarp.cpp)\
 [P2BinarySearch](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P2BinarySearch.cpp)\
 [P3MergeSort](https://github.com/lswarnkar1/3rdYrDAA/blob/master/P3MergeSort.cpp)\
